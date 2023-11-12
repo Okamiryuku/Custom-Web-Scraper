@@ -5,6 +5,7 @@ import csv
 
 
 URL ='https://steamdb.info/charts/?sort=peak'
+FILE_NAME = 'steam_mpg_data.csv'
 
 
 def selenium_scraping():
